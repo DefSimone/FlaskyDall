@@ -1,0 +1,19 @@
+body {
+  background-color: #36454F;
+}
+
+body, button, input, select, textarea,
+.navbar-brand, .nav-link,
+footer {
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  color: white;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
